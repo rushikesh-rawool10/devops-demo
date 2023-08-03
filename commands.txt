@@ -2,3 +2,6 @@ git init
 git add
 git push
 git pull
+git remote -v
+git remote set-url --add
+git remote set-url --delete
